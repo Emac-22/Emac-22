@@ -26,7 +26,7 @@ My journey in information technology has led me to develop a passion for cyberse
 
 
 ### SIEM
-
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 ## Certifications
 
