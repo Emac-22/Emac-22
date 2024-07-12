@@ -33,4 +33,4 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ## Projects
 
-<a href="https://github.com/Emac-22/Configure-Virtual-Machine-Lab.git">Configure VM Lab</a>
+<a href="https://github.com/Emac-22/Configure-Virtual-Machine-Lab.git">Configure Virtual Machine Lab</a>
