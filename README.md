@@ -30,6 +30,8 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ## Certifications
 
+## Reports
+
 
 ## Projects
 
