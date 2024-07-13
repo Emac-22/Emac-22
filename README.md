@@ -20,13 +20,23 @@ My journey in information technology has led me to develop a passion for cyberse
 
 
 ### Network
+<img src="https://img.shields.io/badge/-SolarWinds-0078D7?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
 
 
 ### Endpoint
+<img src="https://img.shields.io/badge/-PowerShell-0078D7?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+
+
 
 
 ### SIEM
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
+### Virtualization
+<img src="https://img.shields.io/badge/-vSphere-0078D7?&style=for-the-badge&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure_Portal-0078D7?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+
+
+
 
 ## Certifications
 
