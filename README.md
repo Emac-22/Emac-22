@@ -39,6 +39,8 @@ My journey in information technology has led me to develop a passion for cyberse
 
 
 ## Certifications
+<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00ADEF?style=for-the-badge&logo=ISC2&logoColor=white" />
+
 
 ## Reports
 <a href="https://github.com/Emac-22/Server-Build-Report-Internship-2022-.git">Enterprise Server Build Report</a>
