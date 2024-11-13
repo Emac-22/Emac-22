@@ -20,7 +20,8 @@ My journey in information technology has led me to develop a passion for cyberse
 
 
 ### Network
-<img src="https://img.shields.io/badge/-SolarWinds-0078D7?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
+<img src="https://img.shields.io/badge/-SolarWinds-0078D7?&style=for-the-badge&logo=SolarWinds&logoColor=white" /> <img src="https://img.shields.io/badge/-Wireshark-000000?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
 
 
 ### Endpoint
