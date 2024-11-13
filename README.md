@@ -31,6 +31,10 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ### SIEM
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logo=TheHive&logoColor=white" />
+
+
 
 ### Virtualization
 <img src="https://img.shields.io/badge/-vSphere-0078D7?&style=for-the-badge&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/-Azure_Portal-0078D7?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
