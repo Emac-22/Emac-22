@@ -49,8 +49,10 @@ My journey in information technology has led me to develop a passion for cyberse
 <a href="https://github.com/Emac-22/Server-Build-Report-Internship-2022-.git">Enterprise Server Build Report</a>
 
 ## Projects
-<a href="https://github.com/Emac-22/SOC-Automation-Project">SOC Automation Project Lab</a>
+<a href="https://github.com/Emac-22/Active-Directory-Cyber-Red-Blue-">Active Directory Project</a>
 
-<a href="https://github.com/Emac-22/Configure-Virtual-Machine-Lab.git">Configure Virtual Machine Lab</a>
+<a href="https://github.com/Emac-22/SOC-Automation-Project">SOC Automation Project</a>
 
-<a href="https://github.com/Emac-22/Splunk-Monitoring-and-Detection.git">Monitoring and Detection: Splunk Lab</a>
+<a href="https://github.com/Emac-22/Configure-Virtual-Machine-Lab.git">Configure Virtual Machine Project</a>
+
+<a href="https://github.com/Emac-22/Splunk-Monitoring-and-Detection.git">Monitoring and Detection: Splunk Project</a>
