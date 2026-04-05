@@ -42,7 +42,10 @@ My journey in information technology has led me to develop a passion for cyberse
 
 
 ## Certifications
+
 <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00ADEF?style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-CySA%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-PenTest%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
 
 
 ## Reports
